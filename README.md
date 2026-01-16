@@ -1,8 +1,35 @@
-##  🙋‍♂️ Olá, eu sou Juan Gomes!
- Sou estudante de Desenvolvimento de Software, com forte interesse na área de Computação, buscando constantemente ampliar seus conhecimentos em programação, lógica computacional e tecnologias atuais https://github.com/JuanGomes09/Portfolio.
+## 👋 Oiii! Eu sou o Juan Gomes
 
- ## 💻 Redes sociais
- https://www.instagram.com/lvjuann?igsh=a3g3aHU2MnpiaGdr
+💻 Estudante de programação e tecnologia  
+🌱 Atualmente aprendendo **HTML, CSS e JavaScript**  
+  
+🚀 Sempre buscando evolução e novos desafios  
+
+---
+
+### 🛠️ Tecnologias em estudo
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Juan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Juan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Juan-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+
+---
+
+### 🌐 Onde me encontrar
+
+<div>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-2E7D32?style=for-the-badge&logo=https://www.instagram.com/lvjuann?igsh=a3g3aHU2MnpiaGdr">
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-1B5E20?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="Juan0.9gomees@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-C62828?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
 
 <!--
 **JuanGomes09/JuanGomes09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
