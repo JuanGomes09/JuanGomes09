@@ -1,6 +1,7 @@
 ##  🙋‍♂️ Olá, eu sou Juan Gomes
 
 ## Sobre mim  
+Sou estudante de Desenvolvimento de Software, com forte interesse na área de Computação, buscando constantemente ampliar seus conhecimentos em programação, lógica computacional e tecnologias atuais.
 
 <!--
 **JuanGomes09/JuanGomes09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
