@@ -1,4 +1,4 @@
-## 👋 Oiii! Eu sou o Juan Gomes
+## 👋 Olá! Eu sou o Juan Gomes!
 
 Sou estudante de Desenvolvimento de Software, com forte interesse na área de Computação, buscando constantemente ampliar seus conhecimentos em programação, lógica computacional e tecnologias atuais.
 
