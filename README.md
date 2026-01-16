@@ -1,10 +1,7 @@
 ## 👋 Olá! Eu sou o Juan Gomes!
 
-Sou estudante de Desenvolvimento de Software, com forte interesse na área de Computação, buscando constantemente ampliar seus conhecimentos em programação, lógica computacional e tecnologias atuais.
-
-💻 Estudante de programação e tecnologia  
-🌱 Atualmente aprendendo **HTML, CSS e JavaScript**    
-🚀 Sempre buscando evolução e novos desafios, https://github.com/JuanGomes09/Portfolio.
+Sou estudante de Desenvolvimento de Software, com forte interesse na área de Computação, buscando constantemente ampliar seus conhecimentos em programação, lógica computacional e tecnologias atuais. 
+atualmente aprendendo **HTML, CSS e JavaScript**, Sempre buscando evolução e novos desafios, https://github.com/JuanGomes09/Portfolio.
 
 ---
 
