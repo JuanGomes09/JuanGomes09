@@ -1,5 +1,5 @@
 ##  🙋‍♂️ Olá, eu sou Juan Gomes!
- Sou estudante de Desenvolvimento de Software, com forte interesse na área de Computação, buscando constantemente ampliar seus conhecimentos em programação, lógica computacional e tecnologias atuais.
+ Sou estudante de Desenvolvimento de Software, com forte interesse na área de Computação, buscando constantemente ampliar seus conhecimentos em programação, lógica computacional e tecnologias atuais https://github.com/JuanGomes09/Portfolio.
 
  ## 💻 Redes sociais
  https://www.instagram.com/lvjuann?igsh=a3g3aHU2MnpiaGdr
