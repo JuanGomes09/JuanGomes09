@@ -1,5 +1,8 @@
-##  🙋‍♂️ Olá, eu sou Juan Gomes
+##  🙋‍♂️ Olá, eu sou Juan Gomes!
  Sou estudante de Desenvolvimento de Software, com forte interesse na área de Computação, buscando constantemente ampliar seus conhecimentos em programação, lógica computacional e tecnologias atuais.
+
+ ## 💻 Redes sociais
+ https://www.instagram.com/lvjuann?igsh=a3g3aHU2MnpiaGdr
 
 <!--
 **JuanGomes09/JuanGomes09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
